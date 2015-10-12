@@ -14,7 +14,7 @@ if __name__ == '__main__':
           scripts = [],
           packages = ['qbittorrent'],
           package_dir = {'qbittorrent': 'qbittorrent'},
-          package_data = {'': ['README.md','LICENSE','doc']},
+          package_data = {'': ['README.md','LICENSE']},
           include_package_data = True,
           classifiers = [
             'Development Status :: 3 - Alpha', 
