@@ -4,9 +4,16 @@ A simple python class to interface with QBittorrent. Currently only supporst the
 
 For more details on the web api visit https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-Documentation-%28qBittorrent-v3.1.x%29
 
+## Installation
+
+```
+$ pip install qbittorrent
+```
+
 ## Example
 
-```python from qbittorent.client import Client
+```python
+from qbittorent.client import Client
 
 qb = Client(url='http://localhost:8080') qb.login('admin', 'secret')
 
