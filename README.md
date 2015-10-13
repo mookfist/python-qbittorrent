@@ -13,7 +13,7 @@ $ pip install qbittorrent
 ## Example
 
 ```python
-from qbittorent.client import Client
+from qbittorent import Client
 
 qb = Client(url='http://localhost:8080') qb.login('admin', 'secret')
 
