@@ -5,7 +5,7 @@ from setuptools import setup
 if __name__ == '__main__':
     setup(
           name = 'qbittorrent',
-          version = '0.1.2',
+          version = '0.1.3',
           description = 'Python wrapper for the QBittorrent web api v3.1.x',
           long_description = 'Python wrapper for QBittorrent web api v3.1.x',
           author = "Mookfist",
