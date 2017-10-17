@@ -1,3 +1,7 @@
+# UNSUPPORTED
+
+This project is no longer being developed. If someone would like to take it over please open an issue to let me know.
+
 # Python QBittorrent Client
 
 A simple python class to interface with QBittorrent. Currently only supporst the 3.1.x version of the API.
